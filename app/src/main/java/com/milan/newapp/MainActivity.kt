@@ -37,7 +37,7 @@ class MainActivity : AppCompatActivity() {
 
     companion object {
         private const val PERMISSIONS_REQUEST_CODE = 101
-        private const val CALENDAR_HOUR_OF_DAY = 10
+        private const val CALENDAR_HOUR_OF_DAY = 8
         private const val CALENDAR_MINUTE = 0
         private const val DAILY_BOOT_ACTION = "DAILY_BOOT_ACTION"
     }
